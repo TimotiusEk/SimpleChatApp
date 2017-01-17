@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "745871458311",
+    "firebase_url": "https://chatapplication-bfce8.firebaseio.com",
+    "project_id": "chatapplication-bfce8",
+    "storage_bucket": "chatapplication-bfce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745871458311:android:e790e8d0fccf5fee",
+        "android_client_info": {
+          "package_name": "com.example.timotiuseka.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745871458311-bf1bchmjvoae91qrlsol48r7ol5k53c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timotiuseka.chatapplication",
+            "certificate_hash": "2CD9626BCDB95D844845F28310C401316A0C109F"
+          }
+        },
+        {
+          "client_id": "745871458311-3sk10vi5oe30s7cj1fgk178cs4s76dc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3hXhX7VsQwMBVHsRnMNOJS_wr59XHxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745871458311-3sk10vi5oe30s7cj1fgk178cs4s76dc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
